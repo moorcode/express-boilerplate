@@ -16,7 +16,7 @@ app.use(helmet());
 app.use(cors());
 
 app.get('/', (req, res) => {
-  res.send('Hello, world! I am an express server!');
+  res.send('Hello, world! I am an Express server!');
 });
 
 app.use(function errorHandler(error, req, res, next) {
