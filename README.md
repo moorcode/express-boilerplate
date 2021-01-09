@@ -12,6 +12,7 @@ Complete the following steps to start a new project (new-project-name):
 4. Install the node dependencies `npm install` (must have node and npm installed on your computer)
 5. Move the example Environment file to `.env` that will be ignored by git and read by the express server `mv example.env .env`
 6. Edit the contents of the `package.json` to use `new-project-name` instead of `"name": "express-boilerplate",`
+7. Change the README
 
 ## Scripts
 
